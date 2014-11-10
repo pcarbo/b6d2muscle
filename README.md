@@ -1,6 +1,8 @@
 # QTL mapping of muscle weight traits in C57BL/6J x DBA/2J AIL mouse study
 
-Short description of this repository goes here.
+This repository contains code and data to accompany publication of
+
+Peter Carbonetto, Riyan Cheng, Joseph Gyekis, Clarissa Parker, David Blizard, Abraham Palmer and Arimantas Lionikas (2014). [Discovery and refinement of muscle weight QTLs in B6 x D2 advanced intercross mice.](http://dx.doi.org/10.1152/physiolgenomics.00055.2014) [Physiological Genomics](http://physiolgenomics.physiology.org) 46: 571-582.
 
 ###License
 
