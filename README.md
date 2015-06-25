@@ -8,7 +8,7 @@ Peter Carbonetto, Riyan Cheng, Joseph Gyekis, Clarissa Parker, David Blizard, Ab
 
 Copyright (c) 2014, Peter Carbonetto
 
-The lgsmfear project repository is free software: you can redistribute
+The b6d2muscle project repository is free software: you can redistribute
 it and/or modify it under the terms of the
 [GNU General Public License](http://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the
