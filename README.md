@@ -4,7 +4,7 @@ This repository contains code and data to accompany publication of
 
 Peter Carbonetto, Riyan Cheng, Joseph Gyekis, Clarissa Parker, David Blizard, Abraham Palmer and Arimantas Lionikas (2014). [Discovery and refinement of muscle weight QTLs in B6 x D2 advanced intercross mice.](http://dx.doi.org/10.1152/physiolgenomics.00055.2014) [Physiological Genomics](http://physiolgenomics.physiology.org) 46: 571-582.
 
-###License
+### License
 
 Copyright (c) 2014, Peter Carbonetto
 
@@ -19,7 +19,7 @@ This program is distributed in the hope that it will be useful, but
 **merchantability** or **fitness for a particular purpose**. See
 [LICENSE](LICENSE) for more details.
 
-###Overview of data files
+### Overview of data files
 
 Here is a brief summary of the files in the [data](data) directory:
 
@@ -38,7 +38,7 @@ Here is a brief summary of the files in the [data](data) directory:
 + [map.csv](data/map.csv) Information about SNPs genotyped in F9-F13
   mice.
 
-###Overview of R source code files
+### Overview of R source code files
 
 Here is a brief summary of the files in the [code](code) directory:
 
@@ -67,7 +67,7 @@ Here is a brief summary of the files in the [code](code) directory:
 + [map.cross.rr.R](code/map.cross.rr.R) Function used to map QTLs
   separately on each chromosome using QTLRel.
 
-###Credits
+### Credits
 
 The R code implementing the analysis procedures was developed by:<br>
 [Peter Carbonetto](http://www.cs.ubc.ca/spider/pcarbo)<br>
